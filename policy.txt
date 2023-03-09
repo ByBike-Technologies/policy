@@ -1,0 +1,234 @@
+BYBİKE MİKROMOBİLİTE TEKNOLOJİ ANONİM ŞİRKETİ
+MÜŞTERİLERİN KİŞİSEL VERİLERİNİN İŞLENMESİNE YÖNELİK
+ AYDINLATMA METNİ
+
+1.	Veri Sorumlusu
+
+Kişisel verileriniz, veri sorumlusu sıfatıyla İstanbul Ticaret Sicil Müdürlüğü nezdinde 411724-5 sicil numarası ile kayıtlı ve şirket merkezi Kavacık Mahallesi Ekinciler Caddesi Medipol Üniversitesi Blok No:19/1 İç Kapı No:1 Beykoz/İstanbul adresinde bulunan ByBike Mikromobilite Teknoloji Anonim Şirketi (“Şirket”) tarafından 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) hükümleri kapsamında ve işbu Müşteri Kişisel Verilerinin İşlenmesine Yönelik Aydınlatma Metni (“Aydınlatma Metni”) çerçevesinde işlenmektedir. 
+
+Şirketimiz, gizliliğinizin ve kişisel verilerinizin korunmasına ilişkin endişelerinize saygı duymakta ve sizinle güvene dayalı bir ilişki kurmak ve sürdürmek için çalışmaktadır. Bu kapsamda Şirketimiz, kişisel verilerinizi KVKK başta olmak üzere kişisel verilerin korunmasına ilişkin tüm mevzuat hükümlerine uygun şekilde işlemekte, verilerinizin güvenli şekilde barındırılmasını sağlamakta ve olası hukuka aykırı erişimlere karşı gerekli tüm güvenlik tedbirlerini almaktadır. İşbu Aydınlatma Metni ile Şirketimiz tarafından veya Şirketimizin nam ve hesabına sunulan hizmetler çerçevesinde toplanan kişisel verilerinizin hangi kapsamda işlendiği açıklanmaktadır. 
+ 
+2.	Kişisel Verilerinizin Toplanma Yöntemi 
+
+Kişisel verileriniz, Şirketimiz tarafından tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elektronik ve/veya fiziki ortamlardan; “ByBike” mobil uygulaması, http://bybike.tech/ uzantılı Şirketimizin internet sitesi, matbu formlar (sözleşmeler, teknik destek formları, fatura vb.),  e-posta, SMS, telefon, faks, kargo / posta, çerezler ve sair tanımla teknolojileri, talep / şikayet platformları, yetkili kamu kurum ve kuruluşları ile diğer ilgili 3. kişilere ait entegre sistemler vasıtasıyla toplanmaktadır.
+
+3.	İşlenen Kişisel Veri Kategorileriniz, Kişisel Verilerinizin İşlenme Amaçları ve Hukuki Sebepler
+
+KVKK’nın 5’inci ve 6’ncı maddelerinde belirtilen kişisel veri işleme şartları kapsamında, kullanıcı hesabı oluşturulması, güncellenmesi ve iptali; kullanıcı ve bireysel cüzdan sözleşmesinden kaynaklı Şirket yükümlülüklerinin yerine getirilmesi; mobil uygulamanın kullanılması; hizmetlerin pazarlanması; hizmetlere ilişkin destek sağlanması; hizmetlere ilişkin müşteri bilgilendirmelerinin gerçekleştirilmesi (örn. yasal bilgilendirmeler); fatura tanzimi/iptali ile diğer muhasebe ve finans işlemleri; müşteri ödemelerinin alınması ve takibi; hizmetin özelleştirilmesi ve iyileştirilmesi; soruşturma, kovuşturma, dava, icra ve benzeri yasal süreçlerin takibinin yapılarak neticelendirilmesi; müşteri ilişkileri yönetimi; talep ve/veya şikayetlerin değerlendirilmesi ile çözüme kavuşturulması; müşteri memnuniyetinin sağlanması; acil durumlarda müdahale sağlanması yahut yetkililere haber verilmesi; taşıt güvenliğinin sağlanması ve takibi; bilgi güvenliğinin, verilerin doğruluğunun, kalite standartlarının sağlanması ile mevzuattan kaynaklı hak ve yükümlülüklerin yerine getirilmesi faaliyetlerinin yürütülmesi süreçleri kapsamında işlenen kişisel veri kategorileriniz ile söz konusu kişisel verilerinizin işlenme amaçları aşağıda detaylı şekilde açıklanmaktadır. 
+
+Kişisel Veri Kategorisi	Kişisel Veri İşleme Amaçları ve İşlemenin Hukuki Sebepleri
+
+Kimlik Verisi (Ad-soyad, doğum tarihi, cinsiyet)	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (a) kanunlarda açıkça öngörülmesi, b) Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (ç) bendi uyarınca veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+•	Acil Durum Yönetimi Süreçlerinin Yürütülmesi
+•	Bilgi Güvenliği Süreçlerinin Yürütülmesi
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Finans ve Muhasebe İşlerinin Yürütülmesi
+•	Firma/Ürün/Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	Hukuk İşlerinin Takibi ve Yürütülmesi
+•	İletişim Faaliyetlerinin Yürütülmesi 
+•	İş Faaliyetlerinin Yürütülmesi/Denetimi 
+•	İş Sürekliliğinin Sağlanması Faaliyetlerinin Yürütülmesi 
+•	Mal/Hizmet Satış Sonrası Destek Hizmetlerinin Yürütülmesi 
+•	Mal/Hizmet Satış Süreçlerinin Yürütülmesi
+•	Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi 
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Stratejik Planlama Faaliyetlerinin Yürütülmesi
+•	Talep/Şikayetlerin Takibi
+•	Taşınır Mal ve Kaynakların Güvenliğinin Temini
+•	Veri Sorumlusu Operasyonlarının Güvenliğinin Temini
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi
+
+Bu kategorideki verileriniz ayrıca, KVKK’nın 5’inci maddesinin 1’inci fıkrası uyarınca bulunması halinde açık rıza kişisel veri işleme şartı (hukuki sebebi) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Firma / Ürün / Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Pazarlama Analiz Çalışmalarının Yürütülmesi
+•	Reklam / Kampanya / Promosyon Süreçlerinin Yürütülmesi
+•	Ürün / Hizmetlerin Pazarlama Süreçlerinin Yürütülmesi
+
+İletişim Verisi (E-posta adresi, telefon numarası) 	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (a) kanunlarda açıkça öngörülmesi, (b) Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (ç) bendi uyarınca veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Acil Durum Yönetimi Süreçlerinin Yürütülmesi
+•	Bilgi Güvenliği Süreçlerinin Yürütülmesi
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Finans ve Muhasebe İşlerinin Yürütülmesi
+•	Firma/Ürün/Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	Hukuk İşlerinin Takibi ve Yürütülmesi
+•	İletişim Faaliyetlerinin Yürütülmesi 
+•	İş Faaliyetlerinin Yürütülmesi/Denetimi 
+•	İş Sürekliliğinin Sağlanması Faaliyetlerinin Yürütülmesi 
+•	Mal/Hizmet Satış Sonrası Destek Hizmetlerinin Yürütülmesi 
+•	Mal/Hizmet Satış Süreçlerinin Yürütülmesi
+•	Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi 
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Stratejik Planlama Faaliyetlerinin Yürütülmesi
+•	Talep/Şikayetlerin Takibi
+•	Taşınır Mal ve Kaynakların Güvenliğinin Temini 
+•	Veri Sorumlusu Operasyonlarının Güvenliğinin Temini
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi
+
+Bu kategorideki verileriniz ayrıca, KVKK’nın 5’inci maddesinin 1’inci fıkrası uyarınca bulunması halinde açık rıza kişisel veri işleme şartı (hukuki sebebi) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Firma / Ürün / Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Pazarlama Analiz Çalışmalarının Yürütülmesi
+•	Reklam / Kampanya / Promosyon Süreçlerinin Yürütülmesi
+•	Ürün / Hizmetlerin Pazarlama Süreçlerinin Yürütülmesi
+Özel Nitelikli Kişisel Veri (Mobil uygulamaya, kaza ve sair acil durumlarda yetkililere bildirebilmemiz için eklenen kan grubu bilgisi)	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 1’inci fıkrası uyarınca açık rıza kişisel veri işleme şartı (hukuki sebebi) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Acil Durum Yönetimi Süreçlerinin Yürütülmesi
+•	İş Sağlığı ve Güvenliği Faaliyetlerinin Yürütülmesi
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi
+Finans Verisi (Cüzdan bakiyesi, ödeme bilgileri vb.)	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının  (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Finans ve Muhasebe İşlerinin Yürütülmesi
+•	İş Faaliyetlerinin Yürütülmesi / Denetimi
+•	Mal/Hizmet Satış Süreçlerinin Yürütülmesi
+•	Mal / Hizmet Satış Sonrası Destek Hizmetlerinin Yürütülmesi
+•	Mal / Hizmet Üretim ve Operasyon Süreçlerinin Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi 
+Müşteri İşlem 
+(Fatura, talep ve şikayet kayıtları, hizmet alınan gün ve saate ilişkin bilgiler vb.)	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (a) kanunlarda açıkça öngörülmesi, (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (ç) bendi uyarınca veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Denetim / Etik Faaliyetlerinin Yürütülmesi
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Finans ve Muhasebe İşlerinin Yürütülmesi
+•	Hukuk İşlerinin Takibi ve Yürütülmesi
+•	İç Denetim / Soruşturma / İstihbarat Faaliyetlerinin Yürütülmesi
+•	İş Faaliyetlerinin Yürütülmesi / Denetimi
+•	İş Süreçlerinin İyileştirilmesine Yönelik Önerilerin Alınması ve Değerlendirilmesi
+•	Lojistik Faaliyetlerinin Yürütülmesi
+•	Mal / Hizmet Satış Sonrası Destek Hizmetlerinin Yürütülmesi
+•	Mal/Hizmet Satış Süreçlerinin Yürütülmesi
+•	Mal / Hizmet Üretim ve Operasyon Süreçlerinin Yürütülmesi
+•	Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Talep / Şikayetlerin Takibi
+•	Taşınır Mal ve Kaynakların Güvenliğinin Temini
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi 
+
+Bu kategorideki verileriniz ayrıca, KVKK’nın 5’inci maddesinin 1’inci fıkrası uyarınca bulunması halinde açık rıza kişisel veri işleme şartı (hukuki sebebi) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Firma / Ürün / Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Ürün / Hizmetlerin Pazarlama Süreçlerinin Yürütülmesi
+•	Pazarlama Analiz Çalışmalarının Yürütülmesi
+•	Reklam / Kampanya / Promosyon Süreçlerinin Yürütülmesi
+Görsel ve İşitsel Kayıtlar
+Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi
+Hukuki İşlem Verisi	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (a) kanunlarda açıkça öngörülmesi, (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (ç) bendi uyarınca veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Finans ve Muhasebe İşlerinin Yürütülmesi
+•	Hukuk İşlerinin Takibi ve Yürütülmesi
+•	İş Faaliyetlerinin Yürütülmesi/Denetimi 
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Stratejik Planlama Faaliyetlerinin Yürütülmesi
+•	Talep/Şikayetlerin Takibi
+•	Taşınır Mal ve Kaynakların Güvenliğinin Temini
+•	Veri Sorumlusu Operasyonlarının Güvenliğinin Temini
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi
+İşlem Güvenliği Verisi 
+(IP adresi bilgileri, internet sitesi giriş çıkış bilgileri, şifre ve parola bilgileri, telefon marka ve model bilgileri)
+	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (ç) bendi uyarınca veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Bilgi Güvenliği Süreçlerinin Yürütülmesi
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	İletişim Faaliyetlerinin Yürütülmesi
+•	Mal / Hizmet Satış Süreçlerinin Yürütülmesi
+•	Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Sözleşme Süreçlerinin Yürütülmesi
+•	Talep / Şikayetlerin Takibi
+•	Taşınır Mal ve Kaynakların Güvenliğinin Temini
+•	Veri Sorumlusu Operasyonlarının Güvenliğinin Temini
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi 
+•	Yetkisiz Erişimin Önlenmesi
+
+Bu kategorideki verileriniz ayrıca, KVKK’nın 5’inci maddesinin 1’inci fıkrası uyarınca bulunması halinde açık rıza kişisel veri işleme şartı (hukuki sebebi) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Firma / Ürün / Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+•	Pazarlama Analiz Çalışmalarının Yürütülmesi
+•	Reklam / Kampanya / Promosyon Süreçlerinin Yürütülmesi
+•	Ürün / Hizmetlerin Pazarlama Süreçlerinin Yürütülmesi
+Lokasyon Bilgisi	Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (c) bendi uyarınca bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, (ç) bendi uyarınca veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, (e) bendi uyarınca bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması ve (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Acil Durum Yönetimi Süreçlerinin Yürütülmesi
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Hukuk İşlerinin Takibi ve Yürütülmesi
+•	İş Faaliyetlerinin Yürütülmesi / Denetimi
+•	Mal/Hizmet Satış Sonrası Destek Hizmetlerinin Yürütülmesi
+•	Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi
+•	Risk Yönetimi Süreçlerinin Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Taşınır Mal ve Kaynakların Güvenliğinin Temini
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi
+Pazarlama Verisi
+Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 2’nci fıkrasının (f) bendi uyarınca ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması kişisel veri işleme şartları (hukuki sebepleri) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Faaliyetlerin Mevzuata Uygun Yürütülmesi
+•	Hukuk İşlerinin Takibi ve Yürütülmesi
+•	Saklama ve Arşiv Faaliyetlerinin Yürütülmesi
+•	Yetkili Kişi, Kurum ve Kuruluşlara Bilgi Verilmesi 
+
+Bu kategorideki verileriniz, KVKK’nın 5’inci maddesinin 1’inci fıkrası uyarınca bulunması halinde açık rıza kişisel veri işleme şartı (hukuki sebebi) kapsamında ve aşağıdaki amaçlarla işlenmektedir:
+
+•	Firma / Ürün / Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+•	İletişim Faaliyetlerinin Yürütülmesi
+•	Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi
+•	Pazarlama Analiz Çalışmalarının Yürütülmesi
+•	Reklam / Kampanya / Promosyon Süreçlerinin Yürütülmesi
+•	Stratejik Planlama Faaliyetlerinin Yürütülmesi
+•	Ücret Politikasının Yürütülmesi
+•	Ürün / Hizmetlerin Pazarlama Süreçlerinin Yürütülmesi
+
+4.	 Kişisel Verilerinizin Yurt İçinde/Yurt Dışında Yerleşik Üçüncü Kişilere Aktarılması 
+
+Şirketimiz bünyesinde kişisel verilerinize, yalnızca yukarıda detaylarına yer verilen amaçlar bakımından sınırlı yetki erişimine sahip çalışanlarımız tarafından kendi görevlerini yerine getirmek amacıyla gerekli ölçüde erişilebilmektedir.
+
+Öte yandan toplanan kişisel verileriniz, KVKK’nın 8’inci maddesinde belirtilen kişisel veri işleme şartlarına uygun şekilde ve ilgili veri kategorisi için yukarıda belirtilen kişisel veri işleme şartlarının (hukuki sebeplerinin) aktarım amaçları bakımından da ayrıca mevcut olması halinde aşağıdaki alıcı gruplarına aktarılabilecektir:
+
+•	Şirket faaliyetlerinin yürütülmesi bakımından ürün ve/veya hizmet temin edilmesi amaçlarıyla yurt içinde ve/veya yurt dışında yerleşik tedarikçilerimize ve çalışanlarına (örn. yurt içinde yerleşik YMM, hukuk danışmanları, nakliye hizmeti sunan firmalar ve bilişim teknolojileri ve yurt dışında yerleşik veri barındırma hizmet sağlayıcıları, haritalandırma sistemi hizmet sağlayıcıları),
+•	E-cüzdan, yazılım ve diğer iş süreçlerinin oluşturulması ve yürütülmesi amaçlarıyla yurt içinde yerleşik iş/çözüm ortaklarımıza, 
+•	Olası şirket birleşme, devralma, ortak girişim, bölünme ve sair yapısal değişikliklerde Şirketimizin hukuki ve finansal inceleme faaliyetlerinin gerçekleştirilmesi amaçlarıyla potansiyel alıcı, satıcı veya işlemin muhatabı sair taraflar ve bunların sır saklama yükümlülüğü altındaki çalışanları, danışmanları ve ilgili sürece dahil olan veri tabanı hizmet sağlayıcılarına,
+•	Şirketimizin hukuki yükümlüklerinin yerine getirilmesi ile Şirketimize ait bir hakkın tesisi, kullanılması veya korunması amaçlarıyla kanunen yetkili kuruluşlarına ve kanunen yetkili özel kişilere. 
+
+5.	Kişisel Verilerinizin İşlenme Süresi
+
+Şirket faaliyetlerimiz sırasında elde edilen kişisel verileriniz, başta Anayasa olmak üzere KVKK, Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik ve diğer ilgili mevzuat hükümlerine uygun şekilde saklamakta ve imha etmektedir.
+
+Bu kapsamda kişisel verileriniz, KVKK’nın 5’inci ve 6’ncı maddeleri kapsamında yukarıda yer alan kişisel veri işleme şartlarının tamamının ortadan kalkması halinde imha edilecektir. Kişisel verileriniz bu doğrultuda, Şirketimiz ile ilişkinizin sona ermesini yahut ürün ve/veya hizmet başvurusunu ve/veya teminini takiben yasal zaman aşım süreleri boyunca işlenmeye devam edecektir. Açık rıza kişisel veri işleme şartına dayalı olarak işlenen kişisel verileriniz ise, açık rızanızı geri çekmeniz halinde ilk imha periyodunda imha edilecektir. Kişisel verilerinizin imha edilmesine ilişkin talepleriniz bakımından, işbu Aydınlatma Metni’nin 6’ncı bölümünü incelemenizi rica ederiz.
+
+6.	 KVKK Kapsamında Haklarınız
+
+Kişisel veri sahibi olarak KVKK’nın 11’inci maddesi uyarınca aşağıdaki haklara sahip olduğunuzu bildiririz:
+
+•	Kişisel verilerinizin işlenip işlenmediğini öğrenme,
+•	Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,
+•	Kişisel verilerinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+•	Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme,
+•	Kişisel verilerinizin eksik veya yanlış işlenmiş olması halinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+•	Kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması halinde kişisel verilerinizin silinmesini veya yok edilmesini isteme ve bu kapsamda ve kişisel verilerinizin eksik veya yanlış işlenmiş olması halinde yapılan işlemlerin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme, 
+•	İşlenen verilerinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+•	Kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması halinde zararın giderilmesini talep etme.
+
+Yukarıda belirtilen haklarınıza yönelik başvurularınızı, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ hükümlerine uygun şekilde; yazılı olarak veya kayıtlı elektronik posta (KEP) adresi, güvenli elektronik imza, mobil imza veya Şirketimize daha önce bildirmiş olduğunuz ve sistemlerimizde kayıtlı olan e-posta adresiniz üzerinden elektronik olarak Şirketimizin gerçek hak sahibi olduğunuzun tespitini gerçekleştirebilmesi amacıyla kimliğinizi doğrulayan bilgilerle / belgelerle* buradan ulaşabileceğiniz İlgili Kişi Başvuru Formu’nu doldurarak yahut yukarıda açıklanan ve ilgili mevzuatta düzenlenen usul ve esasa uygun şekilde veri sorumlusuna ait İlgili Kişi Başvuru Formu’nda belirtilen kanallardan Şirketimize iletebilirsiniz.
+
+Talebinizin niteliğine göre en kısa sürede ve en geç 30 (otuz) gün içinde başvurularınız ücretsiz olarak sonuçlandırılacaktır; ancak işlemin ayrıca bir maliyet gerektirmesi halinde Kişisel Verileri Koruma Kurulu tarafından belirlenecek tarifeye göre tarafınızdan ücret talep edilebilecektir.
+
+* T.C. kimlik numarası veya diğer ülke vatandaşları için pasaport numarası, tebligata esas yerleşim yeri adresi / iş yeri adresi, cep telefonu / telefon / faks numarası, e-posta adresi ve benzeri bilgi ve belgeler. Söz konusu belgeler kapsamında herhangi bir özel nitelikli kişisel veriye (örn. din bilgisi veya kan grubu bilgisi) yer verilmemesi gerektiğini hatırlatmak isteriz.
